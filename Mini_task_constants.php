@@ -6,13 +6,12 @@ define("FS"," Game Development");
 $FLF = "FN LN FS";
 echo $FLF;
 echo "<br>";
-?>
-<?php
+
 $Age = 17;
 echo "My age add five years is :";
 echo $Age + "5"; 
 echo "<br>";
-echo "test02";
+echo "test03";
 ?>
 <?php
 	$browser = $_SERVER["HTTP_USER_AGENT"];
