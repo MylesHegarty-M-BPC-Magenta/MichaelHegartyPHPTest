@@ -1,5 +1,3 @@
-<HTML>
-<BODY>
 
 <?php
 define("FirstName"," Michael");
@@ -14,6 +12,7 @@ $Age = 17;
 
 echo "My age add five years is :";
 echo $Age + "5"; 
+?>
 
 
 
@@ -26,5 +25,3 @@ echo $Age + "5";
 	
 ?>
 
-</BODY>
-</HTML>
