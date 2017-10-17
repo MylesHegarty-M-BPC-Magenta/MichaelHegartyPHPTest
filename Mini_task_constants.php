@@ -1,4 +1,7 @@
-
+<!DOCTYPE html>
+<HTML>
+<BODY>
+	
 <?php
 define("FirstName"," Michael");
 define("LastName","Myles Hegarty");
@@ -20,5 +23,6 @@ echo $Age + "5";
 	echo "Your browser is : $browser";
 	
 ?>
-
+</BODY>
+</HTML>
 
