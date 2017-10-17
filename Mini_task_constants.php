@@ -8,7 +8,7 @@ $FN = "Michael"
 $LN = "Myles Hegarty"
 $FS = "Game Development"
 echo $FLF;
-print "$FN\n$LN\n$FS\n";
+print $FN $LN $FS;
 echo "<br>";
 
 $nameTypesFLF    = array("FN", "LN", "FS");
