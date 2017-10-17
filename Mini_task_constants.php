@@ -4,7 +4,11 @@ define("FN","Michael");
 define("LN"," Myles Hegarty");
 define("FS"," Game Development");
 $FLF = "FN LN FS";
+$FN = "Michael"
+$LN = "Myles Hegarty"
+$FS = "Game Development"
 echo $FLF;
+print "$FN\n$LN\n$FS\n";
 echo "<br>";
 
 $nameTypesFLF    = array("FN", "LN", "FS");
@@ -14,7 +18,7 @@ $Age = 17;
 echo "My age add five years is :";
 echo $Age + "5"; 
 echo "<br>";
-echo "test05";
+echo "test06";
 ?>
 <?php
 	$browser = $_SERVER["HTTP_USER_AGENT"];
