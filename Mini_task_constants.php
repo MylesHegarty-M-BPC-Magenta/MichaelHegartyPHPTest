@@ -3,7 +3,7 @@
 define("FN","Michael");
 define("LN"," Myles Hegarty");
 define("FS"," Game Development");
-$FLF = FN LN FS;
+$FLF = "FN LN FS";
 echo $FLF;
 echo "<br>";
 ?>
@@ -12,7 +12,7 @@ $Age = 17;
 echo "My age add five years is :";
 echo $Age + "5"; 
 echo "<br>";
-echo "test01";
+echo "test02";
 ?>
 <?php
 	$browser = $_SERVER["HTTP_USER_AGENT"];
