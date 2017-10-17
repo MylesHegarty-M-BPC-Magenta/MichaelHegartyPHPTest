@@ -7,11 +7,14 @@ $FLF = "FN LN FS";
 echo $FLF;
 echo "<br>";
 
+$nameTypesFLF    = array(FN, LN, FS);
+
+echo $nametypesFLF;
 $Age = 17;
 echo "My age add five years is :";
 echo $Age + "5"; 
 echo "<br>";
-echo "test03";
+echo "test04";
 ?>
 <?php
 	$browser = $_SERVER["HTTP_USER_AGENT"];
