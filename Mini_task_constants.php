@@ -9,7 +9,7 @@ echo "<br>";
 
 $nameTypesFLF    = array(FN, LN, FS);
 
-echo $nametypesFLF;
+echo $nameTypesFLF;
 $Age = 17;
 echo "My age add five years is :";
 echo $Age + "5"; 
