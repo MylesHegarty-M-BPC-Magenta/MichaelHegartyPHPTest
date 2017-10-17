@@ -1,9 +1,9 @@
 
 <?php
-define("FirstName","Michael");
-define("LastName"," Myles Hegarty");
-define("FavSub"," Game Development");
-$FLF = "FirstName LastName FavSub";
+define("FN","Michael");
+define("LN"," Myles Hegarty");
+define("FS"," Game Development");
+$FLF = "FN LN FS";
 echo $FLF;
 echo "<br>";
 ?>
