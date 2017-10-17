@@ -3,7 +3,7 @@
 define("FN","Michael");
 define("LN"," Myles Hegarty");
 define("FS"," Game Development");
-$FLF = "FN LN FS";
+$FLF = FN LN FS;
 echo $FLF;
 echo "<br>";
 ?>
